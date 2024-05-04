@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "spring.cache.redis.host",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.cache.redis.host'"
+  },
+  {
+    "name": "spring.cache.redis.port",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.cache.redis.port'"
+  }
+]}
